@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  WFPCollectionViewController.h
 //  WFPCompnentKit
 //
 //  Created by JobaraMasashi on 2015/05/20.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface WFPCollectionViewController : UICollectionViewController
 
 @end
-
